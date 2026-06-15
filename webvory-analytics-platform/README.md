@@ -7,6 +7,10 @@ response times.
 
 ---
 
+## Loon Video link:
+part 1 : https://www.loom.com/share/d887062c8c314f05b5b2a9b148ae9c7c
+part 2 : https://www.loom.com/share/99140bcca15946299bd4bb186e801686
+
 ## Architecture Overview
 
 ```
